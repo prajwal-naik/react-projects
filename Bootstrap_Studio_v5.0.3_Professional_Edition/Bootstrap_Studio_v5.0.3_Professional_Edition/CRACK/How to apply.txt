@@ -1,0 +1,7 @@
+Make sure Bootstrap Studio is closed.
+Locate the "app.asar" file in the Bootstrap Studio install location.
+Windows 10 location: C:\Users\YOURUSERNAME\AppData\Local\Programs\bstudio\resources
+Copy & Replace the "app.asar" file.
+Now you can open Bootstrap Studio and you will be installed/updated to 5.0.3
+Will work on Windows/Mac/Linux although your file location of "app.asar" will differ from the steps above.
+ENJOY.BY Zorerkek
